@@ -1,12 +1,16 @@
 # PlaySmartandGetFreeLaundry
 
 Play Smart and Get Free Laundry
-Project Abstract
+# Project Abstract
+
 This Laundry account Payment project is trying to accept payments online from a customer who will use the washing machine to wash clothes, allow customers to play a game to get bonuses when they will pay their laundry and transfer the balance from one laundry account to another laundry account. First, the customer should create an account and get a user ID and password. Then, the customer should go to the main page and select how much they want to pay before starting the payment. Once they deposited money in their laundry account, they can make a payment when they go to the laundry and they can also play the game by using their laundry account. The main purpose of this project is to try to allow a customer to make online prepaid payment easily and to win game within laundry time which is not more than 2 hours to get free money and to have some fun with doing laundry. The game that I want to use in the laundry account is the checker game. In this project, we will create a java code for the checker game, and we will let the laundry customer play a game after they login to their laundry account. The customers can play a game at any time, but they must pay for laundry to get bonus points which changes to money after a certain point. If the customer reaches the winning point, it can redeem to the laundry account. To conclude, Laundry account payment saves time and money because most people are struggling to put cash or their card in the machine and once they put their cash in the machine, they cannot get any change. Also, when the customer loses their prepaid card, they lost their money and they must buy another prepaid card. So, this project tries to resolve the payment issue and helps to satisfy customer needs in a real-world activity.
-The project needs:
+
+# The project needs:
+
 Website, java source code for creating checker game and counting win or loss points.
 The java is going to run for the game in website server side because the user connects to the internet to play game within 2 hours limit which can redeem to the laundry account.
 For the payment, I plan to use Stripe API because it can easily give an access for accepting payments, tracking user accounts and store multiple cards to charge the customer later.
 For this project, relational database management system is appropriate for managing the customer information.
-Project Relevance
+
+# Project Relevance
 In Pay Smart and Get Free laundry, I learn more about test-driven development, planning a system of interacting objects, unified modeling language, and compiling source files. I also gain knowledge on how to build, test, and managing software development in practically. The importance of these educational goals is that it gives the experience to work with other people who have different knowledge and skills, and it gives access to create our idea in a real-world life. This project gives the opportunity to think more detail about how to build our own project, how to implement it, and how to test successfully. In Pay Smart and Get Free laundry, I can also go beyond my class which is trying to think about how to use the website to perform all the payments and managing the laundry account.
